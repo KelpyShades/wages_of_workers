@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688402438 source:c:\users\kelpy\documents\code c++\wages_of_workers\main.cpp
+	<iostream>
+	<ctime>
+
